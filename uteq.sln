@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uteq", "uteq\uteq.csproj", "{222F8F0F-028C-452B-A8C1-570FBF229CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uteq.Core", "uteq.Core\uteq.Core.csproj", "{065B8625-93FD-4704-897F-E01C5CC663DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222F8F0F-028C-452B-A8C1-570FBF229CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222F8F0F-028C-452B-A8C1-570FBF229CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222F8F0F-028C-452B-A8C1-570FBF229CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222F8F0F-028C-452B-A8C1-570FBF229CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065B8625-93FD-4704-897F-E01C5CC663DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065B8625-93FD-4704-897F-E01C5CC663DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065B8625-93FD-4704-897F-E01C5CC663DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065B8625-93FD-4704-897F-E01C5CC663DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5159884-79B7-40BB-B8A3-92A25C0ED4B2}
+	EndGlobalSection
+EndGlobal
